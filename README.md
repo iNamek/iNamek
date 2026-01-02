@@ -1,4 +1,3 @@
-.github.io
 # About me, Mike
 
 **Docent (associate professor), licensed clinical psychologist, PhD**  

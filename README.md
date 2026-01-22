@@ -11,7 +11,7 @@ I work at **Karolinska University Hospital** and I'm affiliated with a research 
 
   - **Clinical digitalisation at the Karolinska University hospital**  
     - Supporting the broad implementation of **digital and hybrid (clinical) tools and workflows** within the organization.  
-    - Supporting the development, implementation and evaluation of digital assessments, interventions and workflows to (potentially) deliver value for clinicians and patients working at Theme Women's Health and Allied Health Professionals.
+    - Supporting the development, implementation and evaluation of digital assessments, interventions and workflows to (potentially) deliver value for clinicians and patients at Theme Women's Health and Allied Health Professionals.
 
   - **Research**  
     - Acceptance and Commitment Therapy (ACT) for longstanding pain and other conditions.  

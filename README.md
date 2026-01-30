@@ -16,14 +16,13 @@ I work at **Karolinska University Hospital** and I'm affiliated with a research 
   - **Research**  
     - Acceptance and Commitment Therapy (ACT) for longstanding pain and other conditions.  
     - Psychometric evaluation of self-report questionnaires in chronic pain and other conditions. 
-    - Studies on **ME/CFS** and **post-COVID-19 condition**, including symptom profiles.
-    - Moving toward research on **applied clinical AI-based solutions** and **non-technical AI safety**.   
+    - Studies on **ME/CFS** and **post-COVID-19 condition**, including symptom profiles. 
 
 
 ## What I’m currently curious about
 - How AI tools actually behave “in the wild” – in real clinical settings, with real-world constraints.  
 - Practical ways to evaluate **AI safety** and robustness from a non-technical/clinical perspective.
-- Curios about how I can contribute to AI safety generally, and specifically related to potential near- and long-term risks of broad implementation of artificial generally intelligent autonomous systems.
+- How I can contribute to AI safety generally, and specifically related to potential near- and long-term risks of broad implementation of artificial generally intelligent autonomous systems.
 
 ---
 
